@@ -1,2 +1,2 @@
-import html from "cloudflare-docs-engine/src/html.js"
+import html from "html.js"
 export default html
